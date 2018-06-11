@@ -1,9 +1,9 @@
 {
-  "name": "com.wikitude.phonegap.wikitudeplugin",
+  "name": "wikitude-cordova-plugin",
   "version": "7.2.1",
   "description": "Augmented Reality Wikitude SDK Pluginty features",
   "cordova": {
-    "id": "com.wikitude.phonegap.wikitudeplugin",
+    "id": "wikitude-cordova-plugin",
     "platforms": [
       "android",
       "ios"
