@@ -1,7 +1,7 @@
 {
   "name": "com.wikitude.phonegap.wikitudeplugin",
   "version": "7.2.1",
-  "description": "Augmented Reality Wikitude SDK Plugin \n        The Wikitude Cordova Plugin enables developers to embed an augmented reality view into their PhoneGap project. You can create a fully featured app with advanced augmented reality features, including image recognition, purely using HTML, CSS and JavaScript.\n    ",
+  "description": "Augmented Reality Wikitude SDK Pluginty features",
   "cordova": {
     "id": "com.wikitude.phonegap.wikitudeplugin",
     "platforms": [
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Wikitude/wikitude-phonegap.git"
+    "url": "git+https://github.com/jokhml/wikitude-cordova-plugin.git"
   },
   "keywords": [
     "AR",
@@ -33,7 +33,7 @@
   "author": "Wikitude GmbH",
   "license": "(c) 2016 - 2017 Wikitude GmbH - see License.md for details of the license",
   "bugs": {
-    "url": "https://github.com/Wikitude/wikitude-phonegap/issues"
+    "url": "https://github.com/jokhml/wikitude-cordova-plugin/issues"
   },
-  "homepage": "https://github.com/Wikitude/wikitude-phonegap#readme"
+  "homepage": "https://github.com/jokhml/wikitude-cordova-plugin#readme"
 }
